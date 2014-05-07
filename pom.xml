@@ -6,7 +6,7 @@
     <!-- ====================================================================== -->
     <groupId>com.adobe.acs.bundles</groupId>
     <artifactId>com.adobe.acs.bundles.sling-models</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>Sling Models Package</name>
     <description>Maven project for Sling Models content package.</description>
@@ -111,7 +111,7 @@
     
     <scm>
         <developerConnection>scm:git:git@github.com:Adobe-Consulting-Services/com.adobe.acs.bundles.sling-models.git</developerConnection>
-      <tag>com.adobe.acs.bundles.sling-models-1.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
   
     <repositories>
